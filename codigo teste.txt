@@ -1,0 +1,5 @@
+#visualiza 20 primeiros numeros...
+
+for(i=0;i<20;i++){
+printf("os 20 numeros sao:%d",i);
+}
